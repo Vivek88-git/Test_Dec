@@ -236,12 +236,50 @@
 
 //task --->>> yppah
 
+// var str = "happy"
+// var store = ""
+// for (let i = str.length-1 ; i>=0 ; i--){
+//   store+= str[i]
+// }
+// console.log(store);
+
+
+// var str = "happy"
+// var store = ""
+// for (let i = str.length-1 ; i>=0 ; i--){
+//   store+= str[i]
+// console.log(store);
+
+// }
+
+
+
+// ---while loop --->>> entry level conditional checking
+
+// let count = 0 //initialization
+// while (count < 5){ //condition
+//   console.log(count); //printing statement
+// count++ //iteration
+// }
+
+//task :
+
+// 0 to 10 ++ = 55 
+
+
+
+var int = 0
+
+for (i = 0 ; i<=10 ; i++){
+  int=int+i
+
+  console.log(int);
+}
 
 
 
 
 
-// ---while loop
 // ---do-while loop
 
 
