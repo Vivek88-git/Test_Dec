@@ -1,4 +1,4 @@
-//console.log()  -->> printing statement // new code // new code
+//console.log()  -->> printing statement // new code 
 // console.log(10)
 // console.log("hello world")
 
