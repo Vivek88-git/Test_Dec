@@ -1,4 +1,4 @@
-//console.log()  -->> printing statement
+//console.log()  -->> printing statement // second code
 // console.log(10)
 // console.log("hello world")
 
